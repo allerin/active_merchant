@@ -1,5 +1,9 @@
 = ActiveMerchant CHANGELOG
 
+== Version 1.43.3-PR-2614 (Oct 11, 2017)
+
+* Barclays ePDQ Extra Plus: Add missing Entrust root certificates [pacso] #2614
+
 == Version 1.43.3 (July 18, 2014)
 
 * Netregistry: Use updated URL [bslobodin]
